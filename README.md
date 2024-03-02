@@ -3,7 +3,8 @@
 <!--
 **Oussmek/oussmek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning blockchain and solving coding challenges ⛩
+👨‍💻 I’m currently working as a full time developer : Freelancer
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
