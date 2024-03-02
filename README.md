@@ -1,9 +1,13 @@
-### Hi i'm Oussama
+### 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oussama
+===============================================================================================================================
 
 # 💫 About Me:
 I'm a Network engineer and blockcchain developer who is passionate about making contributing to open-source more approachable, creating solutions to elevate tech world, and building community. Some technologies I enjoy working with include JavaScript, solidity , python. My interest in the web3, blockchain ecosystem and also in cloud computing .
 
-
+* 🌍  I'm based in Algérie
+* ✉️  You can contact me at [mekhatria.oussama@gmail.com](mailto:mekhatria.oussama@gmail.com)
+* 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mekhatria.oussama) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oussama_mekhatria) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oussama-mekhatria-b5a758140) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Oussama_mk7) 
 
